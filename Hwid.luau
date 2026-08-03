@@ -1,4 +1,4 @@
 return {
     ["NEBC-PGJK-DEDI-PCDE"] = "2026-08-03 14:25",
-    ["WDKF-KRID-WNGR-CLKL"] = "2026-08-03 14:25",
+    ["WDKF-KRID-WNGR-CLKL"] = "2026-08-03 14:30",
 }
